@@ -11,7 +11,7 @@ Hey, chief, it's my honor to have you on my profile reading this, I am a javascr
 * ✉️  You can contact me at [greenbrightsmart@gmail.com](mailto:greenbrightsmart@gmail.com)
 * 🚀  I'm currently working on [a platform to help techies in Africa get internships.](http://prepinterns.com/)
 * 🧠  I'm learning and improving on everything JavaScript/Front-End
-* 🤝  I'm open to collaborating on innovative ideas and projects
+* 🤝  I'm open to collaborate on innovative ideas and projects
 * ⚡  usually I am the "Idea Guy"
 
 ### My Skills
